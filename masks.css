@@ -1,0 +1,21 @@
+p.about {
+    font-size: 20px;
+    border-style: dotted;
+}
+body{
+    background-color: rgb(231, 205, 209);
+}
+.about {
+    font-size: 25px;
+    border-style: dotted;
+}
+h1 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 4px solid #660e24;
+}
